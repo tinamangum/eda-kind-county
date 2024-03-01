@@ -1,6 +1,6 @@
-# ds-project-template
+# Exploraty data analysis King County Housing
 
-Template for creating ds simple projects
+EDA using King County dataset on house sales for the years 05/2014 - 05/2015
 
 ## Requirements
 
