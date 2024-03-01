@@ -6,7 +6,7 @@ The fictional buyer:
 Nicole Johnson : Lively, central neighborhood, middle price range, right timing (within a year)
 
 These were the research questions and their hypothesis:
-* Where are the central,lively areas considered in king, county?
+* Where are the central, lively areas considered in king, county?
 * What is the best time within a year to buy a house
     * The selling prices vary from month to month
   * on average there is a timeframe where buying houses is cheaper
